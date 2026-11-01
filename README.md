@@ -214,4 +214,4 @@ AVG Secure Browser is offered as a **full free version** with **all features and
 Start browsing securely today with AVG Secure Browser! Don’t wait, click the download button and experience the safest web browsing solution available.
 
 ---
-**Last updated:** 2026-10-31 22:11:53 UTC
+**Last updated:** 2026-11-01 01:44:00 UTC
